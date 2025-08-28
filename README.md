@@ -106,10 +106,6 @@ color-generator/
 - [ ] Custom palette creation tool
 - [ ] Integration with design software APIs
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
@@ -117,7 +113,7 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👨‍💻 Author
 
 **Adesina Ayomide**
-- Portfolio: [HarDex.github.io/Portfolio/](Live Link)
+- Portfolio: [Live link](hardex.github.io/Portfolio/)
 
 ## 🙏 Acknowledgments
 
