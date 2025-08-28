@@ -113,7 +113,6 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 ## 👨‍💻 Author
 
 **Adesina Ayomide**
-- Portfolio: [Live link](hardex.github.io/Portfolio/)
 
 ## 🙏 Acknowledgments
 
