@@ -4,7 +4,13 @@
   box-sizing: border-box;
   font-family: Arial, sans-serif;
 }
-
+.color-generator p {
+  max-width: 500px;
+  margin: 0 auto 20px;
+  color: #333;
+  font-size: 16px;
+  line-height: 1.5;
+}
 body {
   display: flex;
   flex-direction: column;
@@ -21,7 +27,7 @@ body {
   font-size: clamp(14px, 2vw, 18px);
   width: 250px;
   height: auto;
-  padding: 50px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
   display: flex;
 }
 .color-generator h1{
